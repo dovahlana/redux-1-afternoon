@@ -274,8 +274,8 @@ class Name extends Component {
   }
   // Several lines for the render omitted
 }
-export default Name;
-```
+export default Name;-
+-*```
 
 </details>
 
